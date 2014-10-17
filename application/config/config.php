@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/SistemaFpi';
+$config['base_url']	= 'http://localhost/ZukistrukizFPI';
 
 /*
 |--------------------------------------------------------------------------
