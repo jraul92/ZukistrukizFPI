@@ -12,7 +12,7 @@
 	<div class="wrapper">
 			<form class="form-signin">
 				<div  class="bar">
-					<h3>Registro</h3>
+					<h3>Registro al Sistema</h3>
 					
 				</div>
 
