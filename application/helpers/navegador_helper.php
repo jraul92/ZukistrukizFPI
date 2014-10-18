@@ -1,5 +1,5 @@
 <?php
- $nav;
+ 
 function NAV()
 {
      $nav = '<nav class="navbar navbar-default" role="navigation">

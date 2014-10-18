@@ -12,6 +12,7 @@ class Micontrolador	 extends CI_Controller {
 		{
 			$this->load->helpers('url'); 
 			$this->load->helpers('navegador_helper'); 
+			$this->load->helpers('footer_helper');
 			$this->load->view('vista');
 		}
 		

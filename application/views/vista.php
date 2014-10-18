@@ -13,6 +13,7 @@
 	<p>Hola</p>
 	<button class="btn btn-warning"> Aqui</button>
 	</div> 
+	
 </body>
-
+<footer><?php echo FOO();?></footer>
 </html>
