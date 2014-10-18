@@ -7,6 +7,7 @@
 	
 </head>
 <body>	
+	<?php echo NAV();?>
 	<div id="container">
 	<h1> Fran :D </h1>
 	<p>Hola</p>
