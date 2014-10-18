@@ -9,8 +9,9 @@
 <body>	
 	<?php echo NAV();?>
 	<div id="container">
-	<h1> te amo :* </h1>
+	<h1> :D </h1>
 	<p>:p</p>
+	<h1> la del pirata cojo con pata de palo :3 </h1>
 	<button class="btn btn-warning"> Aqui</button>
 	</div> 
 	
