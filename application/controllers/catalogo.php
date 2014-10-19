@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Micontrolador	 extends CI_Controller {
+class Catalogo	 extends CI_Controller {
 		
 		function __construct(){
 			
@@ -13,12 +13,11 @@ class Micontrolador	 extends CI_Controller {
 			$this->load->helpers('url'); 
 			$this->load->helpers('navegador_helper'); 
 			$this->load->helpers('footer_helper');
-			$this->load->view('vista');
-	}
+			$this->load->view('catalogollantas');
+		}
 		
 	
 }
 
 
 ?>
-	
