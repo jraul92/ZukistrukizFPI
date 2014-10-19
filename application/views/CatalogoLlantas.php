@@ -15,6 +15,12 @@
 			</li>
 			<br />
 			<h4>Precios</h4>
+			<li>
+				<ol>$20-$30</ol>
+				<ol>$30-$40</ol>
+				<ol>$40-$50</ol>
+			</li>
+			<br />
 		</div>
 		<div></div>
 	</body>
