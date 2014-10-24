@@ -3,7 +3,7 @@
 function FOO()
 {
 
-     $foo = '
+     $foo = '<div id="footer">
      			<img src="'.base_url(). '/imgs/fb.jpg" alt="Facebook">
      			<a>Like/Facebook</a>
      			<img src="'.base_url(). '/imgs/tw.jpg" alt="Twitter">
@@ -12,8 +12,8 @@ function FOO()
      			<a>Contactanos al correo</a>
      			<b> <br>
      			<asing>*Derechos Reservados SIDECONINV R</asing>
-     
-    
+     			</b>
+   			</div>
     ';
     return $foo;
 }

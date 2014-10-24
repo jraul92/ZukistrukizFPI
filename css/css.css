@@ -46,5 +46,11 @@ margin: -35px -35px 30px
 
 .bar h3{text-align: center ; padding-top: 12px;}
 body{background-color:#ADADAD;}
-
-
+html,body{
+height:100%;
+}
+#footer { position: relative; 
+margin-top: -50px; /* altura en px del footer con valor negativo */ 
+height: 50px; /* Altura del Footer en px*/ 
+clear: both; 
+text-align: center; }
