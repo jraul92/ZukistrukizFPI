@@ -29,13 +29,13 @@
 						<a href="#">Nosotros</a>
 					</li>
 					<li>
-						<a href="#">Galeria</a>
+						<a href="#">Galería</a>
 					</li>
 					<li>
 						<a href="#">Carrito</a>
 					</li>
 					<li>
-						<a href="#">compras</a>
+						<a href="#">Compras</a>
 					</li>
 					<li>
 						<a href="#">Reportes</a>
