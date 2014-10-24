@@ -10,18 +10,18 @@
 		<?php echo NAV();?>
 		<div id="categoriacatalogo">
 			<h4>Categorias</h4>
-			<li>
-				<ul>Marca</ul>
-				<ul>Modelo</ul>
-				<ul>Rin</ul>
-			</li>
+			<ol>
+				<li>Marca</li>
+				<li>Modelo</li>
+				<li>Rin</li>
+			</ol>
 			<br />
 			<h4>Precios</h4>
-			<li>
-				<ul>$20-$30</ul>
-				<ul>$30-$40</ul>
-				<ul>$40-$50</ul>
-			</li>
+			<ol>
+				<li>$20-$30</li>
+				<li>$30-$40</li>
+				<li>$40-$50</li>
+			</ol>
 			<br />
 		</div>
 		<div></div>
