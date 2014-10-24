@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		
-	</head>
 		<meta charset="utf-8">
-		<title>Welcome to CodeIgniter</title>
+		<title>Catalogo Llantas</title>
 		<link  rel="stylesheet" href="<?php  echo base_url(); ?>/css/bootstrap.css"/>
+	</head>
 	<body>
 		<?php echo NAV();?>
 		<div id="categoriacatalogo">
 			<h4>Categorias</h4>
-			<li>
-				<ul>Marca</ul>
-				<ul>Modelo</ul>
-				<ul>Rin</ul>
-			</li>
+			<ul>
+				<li><a>Marca</a></li>
+				<li><a>Modelo</a></li>
+				<li><a>Rin</a></li>
+			</ul>
 			<br />
 			<h4>Precios</h4>
-			<li>
-				<ul>$20-$30</ul>
-				<ul>$30-$40</ul>
-				<ul>$40-$50</ul>
-			</li>
+			<ul>
+				<li><a>$20 - $30</a></li>
+				<li><a>$30 - $40</a></li>
+				<li><a>$40 - $50</a></li>
+			</ul>
 			<br />
 		</div>
 		<div></div>
