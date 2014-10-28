@@ -38,8 +38,18 @@ function NAV()
 					<li>
 						<a href="#">Mantenimientos</a>
 					</li>
+					<ul class="dropdown-menu">
+          <li><a href="#">Acción #1</a></li>
+          <li><a href="#">Acción #2</a></li>
+          <li><a href="#">Acción #3</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Acción #4</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Acción #5</a></li>
+        </ul>
 
 				</ul>
+				
 			</div>
 		</nav>
     ';
