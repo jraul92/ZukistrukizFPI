@@ -10,6 +10,7 @@
 	<?php echo NAV();?>
 	<div id="container">
 	<h1>lorem ipsum</h1>
+	<div class="container-fluid container jumbotron"  id="footer"></div>
 	<p>Lorem ipsum dolor sit amet, 
 		consectetur adipisicing elit, 
 		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
