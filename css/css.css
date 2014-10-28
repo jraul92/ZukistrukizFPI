@@ -1,4 +1,4 @@
-
+body { padding-bottom: 70px; }
 
 .wrapper {	
 	margin-top: 100px;
@@ -46,6 +46,7 @@ margin: -35px -35px 30px
 
 .bar h3{text-align: center ; padding-top: 12px;}
 body{background-color:#ADADAD;}
+<<<<<<< HEAD
 html,body{
 height:100%;
 }
@@ -54,3 +55,22 @@ margin-top: -50px; /* altura en px del footer con valor negativo */
 height: 50px; /* Altura del Footer en px*/ 
 clear: both; 
 text-align: center; }
+=======
+
+.categoriacatalogo{
+	width: 20%;
+	height:100%;
+	float:left;
+	clear both;
+	background-color: #000000;
+}
+
+.catalogo{
+	margin: 0px 5px;
+	width: 78%;
+	height:100%;
+	float:left;
+	clear both;
+	background-color: #005702;
+}
+>>>>>>> e19644e2466113ddda2b9082ddb0b6cf552296f3
