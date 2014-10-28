@@ -47,4 +47,19 @@ margin: -35px -35px 30px
 .bar h3{text-align: center ; padding-top: 12px;}
 body{background-color:#ADADAD;}
 
+.categoriacatalogo{
+	width: 20%;
+	height:100%;
+	float:left;
+	clear both;
+	background-color: #000000;
+}
 
+.catalogo{
+	margin: 0px 5px;
+	width: 78%;
+	height:100%;
+	float:left;
+	clear both;
+	background-color: #005702;
+}

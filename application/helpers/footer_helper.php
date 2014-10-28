@@ -2,17 +2,18 @@
  
 function FOO()
 {
-     $foo = '<footer>
-     			<img src="<?php echo base_url()/imgs/fb.jpg?>">
+
+     $foo = '
+     			<img src="'.base_url(). '/imgs/fb.jpg" alt="Facebook">
      			<a>Like/Facebook</a>
-     			<img src="<?php echo base_url()/imgs/tw.jpg?>">
+     			<img src="'.base_url(). '/imgs/tw.jpg" alt="Twitter">
      			<a>Siguenos en twitter</a>
-     			<img src="<?php echo base_url()/imgs/em.jpg?>">
+     			<img src="'.base_url(). '/imgs/em.jpg" alt="E-mail">
      			<a>Contactanos al correo</a>
      			<b> <br>
      			<asing>*Derechos Reservados SIDECONINV R</asing>
      
-     		</footer>
+    
     ';
     return $foo;
 }
